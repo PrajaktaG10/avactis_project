@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Avactis Application Regression Test Suite">
+  <test name="Avactis App Test Cases">
+    <classes>
+      <class name="avactis_tests.IndexPageTest"></class>
+       <class name="avactis_tests.ApparelPageTest"></class>
+        <class name="avactis_tests.ProductPageTest"></class>
+        <class name="avactis_tests.MyCartPageTest"></class>
+       <class name="avactis_tests.CheckoutPageTest"></class> 
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

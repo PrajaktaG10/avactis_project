@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="134781" started-at="2020-03-03T07:33:16Z" finished-at="2020-03-03T07:35:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="134781" started-at="2020-03-03T07:33:16Z" finished-at="2020-03-03T07:35:30Z">
+      <class name="avactis_tests.CheckoutPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="setup" is-config="true" duration-ms="93568" started-at="2020-03-03T13:03:16Z" finished-at="2020-03-03T13:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="enterCustomerDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="enterCustomerDetails" duration-ms="2400" started-at="2020-03-03T13:04:52Z" data-provider="getTestData" finished-at="2020-03-03T13:04:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Praj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Got]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[a@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[411033]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chinchwad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerDetails -->
+        <test-method status="PASS" signature="enterCustomerDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="enterCustomerDetails" duration-ms="1452" started-at="2020-03-03T13:04:55Z" data-provider="getTestData" finished-at="2020-03-03T13:04:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Praju]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Goth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[b@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[411033]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chinchwad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerDetails -->
+        <test-method status="PASS" signature="enterCustomerDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="enterCustomerDetails" duration-ms="1416" started-at="2020-03-03T13:04:56Z" data-provider="getTestData" finished-at="2020-03-03T13:04:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prajakta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gothe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[c@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[411033]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chinchwad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerDetails -->
+        <test-method status="PASS" signature="enterCustomerDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="enterCustomerDetails" duration-ms="1436" started-at="2020-03-03T13:04:58Z" data-provider="getTestData" finished-at="2020-03-03T13:04:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Prajakta]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gothe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[c@email.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[411033]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Maharashtra]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Pune]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chinchwad]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[123456789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCustomerDetails -->
+        <test-method status="PASS" signature="selectCheckboxforSameShAddTest()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="selectCheckboxforSameShAddTest" duration-ms="2339" started-at="2020-03-03T13:04:59Z" finished-at="2020-03-03T13:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectCheckboxforSameShAddTest -->
+        <test-method status="PASS" signature="clickOnContinueCheckout1Test()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="clickOnContinueCheckout1Test" duration-ms="149" started-at="2020-03-03T13:05:01Z" finished-at="2020-03-03T13:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContinueCheckout1Test -->
+        <test-method status="PASS" signature="selectBillingOptionsTest()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="selectBillingOptionsTest" duration-ms="3136" started-at="2020-03-03T13:05:01Z" finished-at="2020-03-03T13:05:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectBillingOptionsTest -->
+        <test-method status="PASS" signature="select_shipping_method_Test()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="select_shipping_method_Test" duration-ms="1879" started-at="2020-03-03T13:05:05Z" finished-at="2020-03-03T13:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select_shipping_method_Test -->
+        <test-method status="PASS" signature="clickOnContinueCheckout2Test()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="clickOnContinueCheckout2Test" duration-ms="2122" started-at="2020-03-03T13:05:07Z" finished-at="2020-03-03T13:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnContinueCheckout2Test -->
+        <test-method status="PASS" signature="placeOrderTest()[pri:0, instance:avactis_tests.CheckoutPageTest@6debcae2]" name="placeOrderTest" duration-ms="21696" started-at="2020-03-03T13:05:09Z" finished-at="2020-03-03T13:05:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrderTest -->
+      </class> <!-- avactis_tests.CheckoutPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Avactis Application Regression Test Suite]">
+  <test name="Avactis App Test Cases(failed)">
+    <classes>
+      <class name="avactis_tests.ApparelPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- avactis_tests.ApparelPageTest -->
+      <class name="avactis_tests.MyCartPageTest">
+        <methods>
+          <include name="clickOnRememberShippingMethodTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="clickOnCheckoutTest"/>
+        </methods>
+      </class> <!-- avactis_tests.MyCartPageTest -->
+      <class name="avactis_tests.IndexPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- avactis_tests.IndexPageTest -->
+      <class name="avactis_tests.ProductPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- avactis_tests.ProductPageTest -->
+    </classes>
+  </test> <!-- Avactis App Test Cases(failed) -->
+</suite> <!-- Failed suite [Avactis Application Regression Test Suite] -->
